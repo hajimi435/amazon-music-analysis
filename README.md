@@ -29,3 +29,6 @@ python 实际预测.py
 python Visualization.py
 python to_sql.py
 python ANOVA检验.py
+
+## 获取完整分析报告
+**[下载完整分析报告（PDF）](https://github.com/hajimi435/amazon-music-analysis/releases/download/v1.0/default.pdf)**
